@@ -30,7 +30,7 @@ df.fillna(0, inplace=True)
 #
 # Here we need to classify survive
 # or dead. Therefore value of n-clusters
-# will be 2.
+# will be 2.hey there
 
 def handle_non_numerical_data(df):
     columns = df.columns.values
